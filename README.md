@@ -2,7 +2,17 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+### Requirements
+- [Node.js](https://nodejs.org/en/download/) version 18.0 or later
+- [pnpm](https://pnpm.io/installation) version 7.0 or later
+
+First, install the dependencies:
+
+```bash
+pnpm install
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
